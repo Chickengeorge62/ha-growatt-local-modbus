@@ -1,0 +1,4 @@
+name: Modbus PHP Reader Repository
+description: growatt-local-modbus
+url: https://github.com/Chickengeorge62/ha-growatt-local-modbus
+maintainer: Chickengeorge62 <bernd.gramlich@gmail.com>
